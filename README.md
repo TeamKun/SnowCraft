@@ -6,9 +6,10 @@ minecraft version: 1.16.5
 ## コマンド
 * snow  
   * start 
+  * end
+  * setleader
+    * 人物名
   * config  
-    * leader
-      * 人物名
     * amount
       * 1～10
     * range
