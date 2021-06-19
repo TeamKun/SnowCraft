@@ -21,7 +21,7 @@ public class TabComplete {
             completes.add(SET_CONFIG);
         } else if (subCommandLength == 2) {
             if (SET_LEADER.equals(args[0])) {
-
+                //todo 全員の名前を取得
             } else if (SET_CONFIG.equals(args[0])) {
                 completes.add(AMOUNT);
                 completes.add(RANGE);

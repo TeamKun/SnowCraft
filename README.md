@@ -4,7 +4,7 @@
 誰の周りに振らせるか、どれくらい振るか、どの範囲に振らせるかは指定できる
 minecraft version: 1.16.5  
 ## コマンド
-* snow  
+* snowcraft  
   * start 
   * end
   * setleader
